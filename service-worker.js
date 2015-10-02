@@ -2,7 +2,6 @@ importScripts('js/cache-polyfill.js');
 
 var CACHE_VERSION = 'app-v1';
 var CACHE_FILES = [
-    '/',
     'images/background.jpeg',
     'js/app.js',
     'css/styles.css',
